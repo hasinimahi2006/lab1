@@ -4,7 +4,7 @@ public class TestFactorial {
         System.out.println("SUCCESS");
     }
     else{
-        System.out.println("FAILURE");
+        System.out.println("FAILUREEE");
     }
  }   
 }
